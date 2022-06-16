@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Rushikesh <chandrakanthkunda@gmail.com>
+MAINTAINER chandusoftware <chandrakanthkunda@gmail.com>
 RUN apt-get update -y
 RUN apt-get install git maven -y
 RUN apt-get install  wget -y
